@@ -19,8 +19,102 @@
     .mas{
         width: 320px;
         height: 303px;
-    } 
+    }
+
+    .intro{
+        width: 288px;
+    }
+
+    #parrafo{
+        width: 288px;
+        height: 66px;
+    }
+
+    .extframe{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .frames{
+        width:298px;
+        height: 225px;
+    }
+
+    .fr{
+        width:298px;
+        height: 225px;
+        margin-top: 21px;
+    }
+
+    .where{
+        display: flex;
+        flex-direction: column; 
+    }
+
+    #img{
+        margin-top: 48px;
+        width: 360px;
+        height: 519px;
+    }
+
+    #de{
+        width:288px;
+        height: 84px;
+        margin-top: 27px;
+    }
+
+    #p{
+        width: 288px;
+        height: 254px;
+    }
+
+    .invitados{
+        display: flex;
+        flex-direction: column;
+        margin-top: 54px;
+    }
+
+    #inv{
+        width: 288px;
+        height: 84px;
+        margin-left: 16px;
+        margin-bottom: 14;
+    }
+
+    #imgs{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #c{
+        width: 320px;
+        height: 243px;
+        flex-direction: column;
+    }
+
+    #some{
+        width: 288px;
+        height: 84px;
+        margin-top: 48px;
+        margin-left: 16px;
+    }
+
+    #logos{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #txt{
+        display: flex;
+        flex-direction: column;
+        
+    }
 }
+
+
+
+
+
 
 *{
     padding: 0px;
