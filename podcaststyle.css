@@ -1,5 +1,5 @@
 
-@media all and (max-width: 700px){
+@media all and (max-width: 400px){
     button#menu {
         display: block;
     }
@@ -107,7 +107,43 @@
     #txt{
         display: flex;
         flex-direction: column;
-        
+
+    }
+
+    #textos{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .prefooter{
+        width: 320px;
+        height: 341px;
+    }
+
+    #queres{
+        margin-top: 64px;
+        margin-left: 16px;
+        width: 288px;
+        height: 126px;
+    }
+
+    #ubot{
+        margin-top: 36px;
+        margin-left: 16px;
+        width: 288px;
+        height: 48px;
+    }
+
+    #copy{
+        margin-top: 24px;
+        margin-left: 47px;
+        width: 227px;
+        height: 22px;
+    }
+
+    #spotify{
+        margin-left: 45px;
+        margin-top: 16px;
     }
 }
 
